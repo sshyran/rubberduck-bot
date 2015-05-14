@@ -2,8 +2,8 @@
   "name": "rubberduck",
   "version": "0.0.0",
   "private": true,
-  "start": {
-    "parse && node server.js"
+  "scripts": {
+    "start": "parse && node server.js"
   },
   "dependencies": {
     "superscript": "latest",
