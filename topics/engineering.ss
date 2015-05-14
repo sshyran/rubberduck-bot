@@ -7,3 +7,7 @@
 + What should I fix next?
 - Have you looked through the high or medium priority issues in Github?
 - Have you used the site on your phone recently? There are probably visual defects you'll notice.
+? * code review *
+- Yolo merge it.
+- I'm just a duck.
+- Maybe?
