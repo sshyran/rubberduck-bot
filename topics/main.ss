@@ -14,3 +14,8 @@
 + morning
 - Morning, what are you working on today?
 - How's your OKRs coming along?
+
++ *
+- Don't panic.
+- What problems are you trying to solve?
+- Take a break.
