@@ -30,6 +30,18 @@ var options = {};
 options['factSystem'] = factSystem;
 options['mongoose'] = mongoose;
 
+var express = require('express');
+var app = express();
+
+app.get('/', function(req, res){
+  res.send('Hello! This is Fusion Rubberduck');
+});
+ 
+var port = process.env.PORT || 3000;
+
+app.listen(port);
+
+
 var slack = new Slack(token, true, true);
 
 var botHandle = function(err, bot) {
