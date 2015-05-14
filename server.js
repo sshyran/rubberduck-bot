@@ -17,6 +17,8 @@ var facts = require("sfacts");
 var factSystem = facts.explore("botfacts");
 var TopicSystem = require("superscript/lib/topics/index")(mongoose, factSystem);
 
+console.log( "Server running" );
+
 // How should we reply to the user? 
 // direct - sents a DM
 // atReply - sents a channel message with @username
