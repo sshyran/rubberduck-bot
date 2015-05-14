@@ -4,3 +4,6 @@
 + * make for lunch *
 - A burrito?
 - What do you have in your kitchen?
++ lunch
+- Sounds delicious!
+- Yum!
