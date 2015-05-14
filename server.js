@@ -1,12 +1,13 @@
 
 // Auth Token - You can generate your token from 
 // https://<slack_name>.slack.com/services/new/bot
-var token = "...";
+var token = process.env.SLACK_BOT_TOKEN || "...";
+var mongo = process.env.MONGOHQ_URL || 'mongodb://localhost/superscriptDB';
 
 // This is the main Bot interface
 var superscript = require("superscript");
 var mongoose = require("mongoose");
-mongoose.connect('mongodb://localhost/superscriptDB');
+mongoose.connect( mongo );
 
 // slack-client provides auth and sugar around dealing with the RealTime API.
 var Slack = require("slack-client");
