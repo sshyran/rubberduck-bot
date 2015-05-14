@@ -7,3 +7,6 @@
 - Ola
 + hello bot
 - Hello, human!
+
++ you suck
+- No! you suck!

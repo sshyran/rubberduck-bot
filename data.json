@@ -6,7 +6,7 @@
         }
     },
     "gambits": {
-        "y6wY5H4w": {
+        "mlKd26uK": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -15,18 +15,18 @@
                 "filter": false
             },
             "replys": [
-                "Uw3HaFWZ",
-                "XVaKTb8m",
-                "Ydoeph3t",
-                "I4XyFj0V",
-                "C3Euf0MD",
-                "iuO1DH60"
+                "1YEL59Ur",
+                "NXEn8w1L",
+                "d5GzmY5s",
+                "5Xp9zuFc",
+                "nf0c7WmU",
+                "18C8Ty0H"
             ],
             "redirect": null,
             "trigger": "~emohello(?:\\s*(\\s?(?:[\\w-]*\\s?){0,2})\\s*|\\s*)",
             "raw": "~emohello [*~2]"
         },
-        "9RIsiYYt": {
+        "zpXNB9Js": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -35,23 +35,39 @@
                 "filter": false
             },
             "replys": [
-                "jJ8qYJdN"
+                "GiTpMqga"
             ],
             "redirect": null,
             "trigger": "~emohello bot",
             "raw": "~emohello bot"
+        },
+        "e2lVT7gG": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "VafZcGhq"
+            ],
+            "redirect": null,
+            "trigger": "you suck",
+            "raw": "you suck"
         }
     },
     "replys": {
-        "Uw3HaFWZ": "Hi!",
-        "XVaKTb8m": "Hi, how are you?",
-        "Ydoeph3t": "How are you?",
-        "I4XyFj0V": "Hello",
-        "C3Euf0MD": "Howdy",
-        "iuO1DH60": "Ola",
-        "jJ8qYJdN": "Hello, human!"
+        "1YEL59Ur": "Hi!",
+        "NXEn8w1L": "Hi, how are you?",
+        "d5GzmY5s": "How are you?",
+        "5Xp9zuFc": "Hello",
+        "nf0c7WmU": "Howdy",
+        "18C8Ty0H": "Ola",
+        "GiTpMqga": "Hello, human!",
+        "VafZcGhq": "No! you suck!"
     },
     "checksums": {
-        "./topics/main.ss": "5e4f5e5f04b456ef587077c961c8896c8968b0ea"
+        "./topics/main.ss": "60a67dcd983d7daefe476dfdcb941cd4c0bcfae7"
     }
 }
