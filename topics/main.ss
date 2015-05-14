@@ -13,3 +13,6 @@
 
 + morning
 - Morning, what are you working on today?
+
++ *
+- How's your OKRs coming along?
