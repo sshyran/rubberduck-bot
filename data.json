@@ -1,0 +1,57 @@
+{
+    "topics": {
+        "random": {
+            "flags": [],
+            "keywords": []
+        }
+    },
+    "gambits": {
+        "y6wY5H4w": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "Uw3HaFWZ",
+                "XVaKTb8m",
+                "Ydoeph3t",
+                "I4XyFj0V",
+                "C3Euf0MD",
+                "iuO1DH60"
+            ],
+            "redirect": null,
+            "trigger": "~emohello(?:\\s*(\\s?(?:[\\w-]*\\s?){0,2})\\s*|\\s*)",
+            "raw": "~emohello [*~2]"
+        },
+        "9RIsiYYt": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "jJ8qYJdN"
+            ],
+            "redirect": null,
+            "trigger": "~emohello bot",
+            "raw": "~emohello bot"
+        }
+    },
+    "replys": {
+        "Uw3HaFWZ": "Hi!",
+        "XVaKTb8m": "Hi, how are you?",
+        "Ydoeph3t": "How are you?",
+        "I4XyFj0V": "Hello",
+        "C3Euf0MD": "Howdy",
+        "iuO1DH60": "Ola",
+        "jJ8qYJdN": "Hello, human!"
+    },
+    "checksums": {
+        "./topics/main.ss": "5e4f5e5f04b456ef587077c961c8896c8968b0ea"
+    }
+}
