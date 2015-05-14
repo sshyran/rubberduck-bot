@@ -6,3 +6,7 @@
 
 ?:WH * life
 - Err, 42?
+
++ * baby *
+- Cute!
+- "Just imagine you're drowning... then someone hands you a baby."
