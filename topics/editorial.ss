@@ -1,3 +1,4 @@
-+ What should I write about?
-- What is George Bush up to these days?
-- What is Hillary Clinton up to these days?
+?:WH * write about *
+- Isn't George Bush writing a book?
+- Have you written about what Hillary Clinton had for breakfast?
+- Kim Kardashian likes to retweet us.
