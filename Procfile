@@ -1,1 +1,1 @@
-web: parse -f && node server.js
+web: node server.js
