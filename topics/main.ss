@@ -5,3 +5,5 @@
 - Hello
 - Howdy
 - Ola
++ hello bot
+- Hello, human!
