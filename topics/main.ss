@@ -19,3 +19,7 @@
 - Don't panic.
 - What problems are you trying to solve?
 - Take a break.
+
++ * answer to life *
+- 42
+- get a towel
