@@ -11,7 +11,6 @@
 - No! you suck!
 + morning
 - Morning, what are you working on today?
-- How are your OKRs coming along?
 + * tired *
 - Don't panic.
 - What problems are you trying to solve?
