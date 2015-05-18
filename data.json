@@ -1,0 +1,473 @@
+{
+    "topics": {
+        "random": {
+            "flags": [],
+            "keywords": []
+        }
+    },
+    "gambits": {
+        "e7OyH8Ag": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "Js30xeQn",
+                "NIM7FkgD",
+                "jRaiz3c9"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)more traffic(?:.*\\s?)",
+            "raw": "* more traffic *"
+        },
+        "O8slAX0S": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": "WH",
+                "filter": false
+            },
+            "replys": [
+                "jQ3KXBap",
+                "zVsgDIJW",
+                "8Ffs83g2",
+                "JiXSJqQ5"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)write about(?:.*\\s?)",
+            "raw": "* write about *"
+        },
+        "cuQq4Nwx": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "RiMIX4gt"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)edit(?:.*\\s?)",
+            "raw": "* edit *"
+        },
+        "sXzeOimY": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "NqMhC9CF"
+            ],
+            "redirect": null,
+            "trigger": "I am stuck",
+            "raw": "I am stuck"
+        },
+        "5UDeBcSC": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)not working(?:.*\\s?)",
+            "raw": "* not working *"
+        },
+        "hNkoygRX": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "SDyRAbIA",
+                "uZH4UdXj"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)can not figure out(?:.*\\s?)",
+            "raw": "* can not figure out *"
+        },
+        "xZmL5vGl": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "wGdFlAUh",
+                "Mivsptej"
+            ],
+            "redirect": null,
+            "trigger": "What should I fix next",
+            "raw": "What should I fix next"
+        },
+        "aEkApXZo": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "aR9RTW0A",
+                "6Jomgo2u",
+                "vEWiZWuS"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)code review(?:.*\\s?)",
+            "raw": "* code review *"
+        },
+        "ggFyyX97": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "J33QOYje"
+            ],
+            "redirect": null,
+            "trigger": "can I(?:.*\\s?)staging(?:.*\\s?)",
+            "raw": "can I * staging *"
+        },
+        "OS2Ie9Hg": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [],
+            "redirect": null,
+            "trigger": "gfg",
+            "raw": "gfg"
+        },
+        "jb8FxMqI": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "ZjHBoEfX"
+            ],
+            "redirect": null,
+            "trigger": "ffs",
+            "raw": "ffs"
+        },
+        "zLmjDEib": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "SLNTw4bA"
+            ],
+            "redirect": null,
+            "trigger": "~emolaugh",
+            "raw": "~emolaugh"
+        },
+        "DacLWnS9": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "w3qI6UwN",
+                "iUBk6D7K"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)baby(?:.*\\s?)",
+            "raw": "* baby *"
+        },
+        "ZSblwzrd": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "swyLNZOb",
+                "GR0M3tk3",
+                "CTKwXTpM"
+            ],
+            "redirect": null,
+            "trigger": "What should I eat for lunch",
+            "raw": "What should I eat for lunch"
+        },
+        "ln3YQUcU": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "zZDXJNCR",
+                "W0bxUhJ7"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)make for lunch(?:.*\\s?)",
+            "raw": "* make for lunch *"
+        },
+        "eEVmTkfZ": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "agF2ckS9",
+                "NVKSGIrh"
+            ],
+            "redirect": null,
+            "trigger": "lunch",
+            "raw": "lunch"
+        },
+        "epEhYXAu": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "XFmdQ3yp",
+                "wDLDDLZh",
+                "upmQ5Tfn",
+                "POk33PXx",
+                "2LLXTcDz",
+                "mDclqQAn"
+            ],
+            "redirect": null,
+            "trigger": "~emohello(?:\\s*(\\s?(?:[\\w-]*\\s?){0,2})\\s*|\\s*)",
+            "raw": "~emohello [*~2]"
+        },
+        "tksT3SQH": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "7hbtd8RJ"
+            ],
+            "redirect": null,
+            "trigger": "~emohello bot",
+            "raw": "~emohello bot"
+        },
+        "sHqbc0SX": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "jelCJStl"
+            ],
+            "redirect": null,
+            "trigger": "you suck",
+            "raw": "you suck"
+        },
+        "b968h0dZ": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "lpLU1EVf"
+            ],
+            "redirect": null,
+            "trigger": "morning",
+            "raw": "morning"
+        },
+        "wGjJ6w56": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "SPPSl1Hz",
+                "vM7ZIkyf",
+                "sgVblh0B"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)tired(?:.*\\s?)",
+            "raw": "* tired *"
+        },
+        "dvB6mz6d": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [],
+            "redirect": null,
+            "trigger": "What can I ask",
+            "raw": "What can I ask"
+        },
+        "7cMHGIsv": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "7zRqn7r1"
+            ],
+            "redirect": null,
+            "trigger": "help",
+            "raw": "help"
+        },
+        "qzRxrH4X": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "vZQXJv3Z",
+                "eDf2QChc"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)sunny(?:.*\\s?)",
+            "raw": "* sunny *"
+        },
+        "bgi5C1No": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "CS3TKfI0"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)(\\brainy\\b|\\brain\\b)\\s?(?:.*\\s?)",
+            "raw": "* (rainy|rain) *"
+        },
+        "e5FzXCoQ": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "wEOflbQ8"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)cold(?:.*\\s?)",
+            "raw": "* cold *"
+        }
+    },
+    "replys": {
+        "Js30xeQn": "Write monkey write!",
+        "NIM7FkgD": "Sex always sells.",
+        "jRaiz3c9": "You know what? Our traffic patterns really do seem random. I wonder if it's related to the cycles of the moon?",
+        "jQ3KXBap": "Isn't George Bush writing a book?",
+        "zVsgDIJW": "Have you written about what Hillary Clinton had for breakfast?",
+        "8Ffs83g2": "Kim Kardashian retweeted us that one time.",
+        "JiXSJqQ5": "Probably something sexy.",
+        "RiMIX4gt": "Make sure to double-check your spelling!",
+        "NqMhC9CF": "What are you stuck on?",
+        "SDyRAbIA": "What debugging have you done?",
+        "uZH4UdXj": "Have you tried turning it off and on again?",
+        "wGdFlAUh": "Have you looked through the high or medium priority issues in Github?",
+        "Mivsptej": "Have you used the site on your phone recently? There are probably visual defects you'll notice.",
+        "aR9RTW0A": "Yolo merge it.",
+        "6Jomgo2u": "I'm just a duck.",
+        "vEWiZWuS": "Maybe?",
+        "J33QOYje": "^checkStaging()",
+        "ZjHBoEfX": "What?! I didn't do it.",
+        "SLNTw4bA": "I exist in hyperspace. Ain't no sound in space!",
+        "w3qI6UwN": "Cute!",
+        "iUBk6D7K": "\"Just imagine you're drowning... then someone hands you a baby.\"",
+        "swyLNZOb": "What's closest nearby?",
+        "GR0M3tk3": "Are there food carts nearby?",
+        "CTKwXTpM": "Skip lunch and keep working, you tard.",
+        "zZDXJNCR": "A burrito?",
+        "W0bxUhJ7": "What do you have in your kitchen?",
+        "agF2ckS9": "Sounds delicious!",
+        "NVKSGIrh": "Yum!",
+        "XFmdQ3yp": "Hi!",
+        "wDLDDLZh": "Hi, how are you?",
+        "upmQ5Tfn": "How are you?",
+        "POk33PXx": "Hello",
+        "2LLXTcDz": "Howdy",
+        "mDclqQAn": "Ola",
+        "7hbtd8RJ": "Hello, human!",
+        "jelCJStl": "No! you suck!",
+        "lpLU1EVf": "Morning, what are you working on today?",
+        "SPPSl1Hz": "Don't panic.",
+        "vM7ZIkyf": "What problems are you trying to solve?",
+        "sgVblh0B": "Take a break.",
+        "7zRqn7r1": "I'm a powerful rubber duck. You can ask me anything!",
+        "vZQXJv3Z": "It's sunny where I am. Don't you love working for a distributed team?",
+        "eDf2QChc": "The sun will come out, tomorrow, bet your bottom dollar that tomorrow there'll be sun...",
+        "CS3TKfI0": "Yeah.",
+        "wEOflbQ8": "At least it's not Canada."
+    },
+    "checksums": {
+        "./topics/audience-development.ss": "c40b73d6e5c8f30fb6ba88bf44f4dd32b23aed9c",
+        "./topics/engineering.ss": "1ec0c8f5f9470ec44fc524d6c54556d85c1f3c4e",
+        "./topics/editorial.ss": "8271d4ff126169db9eaccf4f4745a2e1f3785544",
+        "./topics/funny.ss": "4586ef8c9f5bee8b780ff6ddc13955a8809e53a9",
+        "./topics/lunch.ss": "8b50445b3cd221b62a13f6ba83c7922bdea0dd8a",
+        "./topics/main.ss": "a97efc753c44bd656f0e8cd9925c7abfdfb1cd66",
+        "./topics/meta.ss": "4e77ba2c94f6dd56802227d9a835c3a2e4132b92",
+        "./topics/weather.ss": "9cfffbceca0fb3e1d9b82e84f0fa0b97b37b3488"
+    }
+}
