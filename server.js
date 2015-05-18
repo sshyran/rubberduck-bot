@@ -78,11 +78,6 @@ var receiveData = function(slack, bot, data) {
     message = "" + messageData.text.trim();
   }
 
-  /*
-  checkStaging.lastPersonAskedForInHour(user.name, message, function(lastPersonMentionedStaging) {
-	console.log(lastPersonMentionedStaging);
-  });
-  */
   var match = message.match(atReplyRE);
   
   // Are they talking to us?
