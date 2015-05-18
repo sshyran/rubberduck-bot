@@ -6,7 +6,7 @@
         }
     },
     "gambits": {
-        "e7OyH8Ag": {
+        "Q8NC8xAO": {
             "topic": "random",
             "options": {
                 "isQuestion": true,
@@ -15,48 +15,15 @@
                 "filter": false
             },
             "replys": [
-                "Js30xeQn",
-                "NIM7FkgD",
-                "jRaiz3c9"
+                "gkWjMPBX",
+                "jN4rFwhN",
+                "1WpTMnAY"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)more traffic(?:.*\\s?)",
             "raw": "* more traffic *"
         },
-        "O8slAX0S": {
-            "topic": "random",
-            "options": {
-                "isQuestion": true,
-                "qType": false,
-                "qSubType": "WH",
-                "filter": false
-            },
-            "replys": [
-                "jQ3KXBap",
-                "zVsgDIJW",
-                "8Ffs83g2",
-                "JiXSJqQ5"
-            ],
-            "redirect": null,
-            "trigger": "(?:.*\\s?)write about(?:.*\\s?)",
-            "raw": "* write about *"
-        },
-        "cuQq4Nwx": {
-            "topic": "random",
-            "options": {
-                "isQuestion": true,
-                "qType": false,
-                "qSubType": false,
-                "filter": false
-            },
-            "replys": [
-                "RiMIX4gt"
-            ],
-            "redirect": null,
-            "trigger": "(?:.*\\s?)edit(?:.*\\s?)",
-            "raw": "* edit *"
-        },
-        "sXzeOimY": {
+        "33Yxoeic": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -65,13 +32,13 @@
                 "filter": false
             },
             "replys": [
-                "NqMhC9CF"
+                "yFdoz9cl"
             ],
             "redirect": null,
             "trigger": "I am stuck",
             "raw": "I am stuck"
         },
-        "5UDeBcSC": {
+        "vP6C3MI1": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -84,7 +51,7 @@
             "trigger": "(?:.*\\s?)not working(?:.*\\s?)",
             "raw": "* not working *"
         },
-        "hNkoygRX": {
+        "eRnF3sOS": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -93,14 +60,14 @@
                 "filter": false
             },
             "replys": [
-                "SDyRAbIA",
-                "uZH4UdXj"
+                "LHWOTGF1",
+                "f2e3Vj4D"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)can not figure out(?:.*\\s?)",
             "raw": "* can not figure out *"
         },
-        "xZmL5vGl": {
+        "Bk2oCzFQ": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -109,14 +76,14 @@
                 "filter": false
             },
             "replys": [
-                "wGdFlAUh",
-                "Mivsptej"
+                "jW0p2FTh",
+                "2SNqrWMJ"
             ],
             "redirect": null,
             "trigger": "What should I fix next",
             "raw": "What should I fix next"
         },
-        "aEkApXZo": {
+        "0nd8F9AQ": {
             "topic": "random",
             "options": {
                 "isQuestion": true,
@@ -125,15 +92,15 @@
                 "filter": false
             },
             "replys": [
-                "aR9RTW0A",
-                "6Jomgo2u",
-                "vEWiZWuS"
+                "xfDHIsmz",
+                "Nt601aOs",
+                "FxLjg3Q9"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)code review(?:.*\\s?)",
             "raw": "* code review *"
         },
-        "ggFyyX97": {
+        "tdTRlJj8": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -142,13 +109,46 @@
                 "filter": false
             },
             "replys": [
-                "J33QOYje"
+                "6XC0cdIF"
             ],
             "redirect": null,
-            "trigger": "can I(?:.*\\s?)staging(?:.*\\s?)",
-            "raw": "can I * staging *"
+            "trigger": "can I grab staging",
+            "raw": "can I grab staging"
         },
-        "OS2Ie9Hg": {
+        "7TfKR56x": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": "WH",
+                "filter": false
+            },
+            "replys": [
+                "ff8Rq8Gy",
+                "HmnQEM0K",
+                "SDCHpdyp",
+                "fD81Uu6a"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)write about(?:.*\\s?)",
+            "raw": "* write about *"
+        },
+        "BvKokgyE": {
+            "topic": "random",
+            "options": {
+                "isQuestion": true,
+                "qType": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "PeOK0SUU"
+            ],
+            "redirect": null,
+            "trigger": "(?:.*\\s?)edit(?:.*\\s?)",
+            "raw": "* edit *"
+        },
+        "sEhm18ux": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -161,7 +161,7 @@
             "trigger": "gfg",
             "raw": "gfg"
         },
-        "jb8FxMqI": {
+        "m58fPoVo": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -170,13 +170,13 @@
                 "filter": false
             },
             "replys": [
-                "ZjHBoEfX"
+                "CSj9z0Uo"
             ],
             "redirect": null,
             "trigger": "ffs",
             "raw": "ffs"
         },
-        "zLmjDEib": {
+        "XUI6AMqr": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -185,13 +185,13 @@
                 "filter": false
             },
             "replys": [
-                "SLNTw4bA"
+                "qDdHOlvF"
             ],
             "redirect": null,
             "trigger": "~emolaugh",
             "raw": "~emolaugh"
         },
-        "DacLWnS9": {
+        "HngjhguY": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -200,14 +200,14 @@
                 "filter": false
             },
             "replys": [
-                "w3qI6UwN",
-                "iUBk6D7K"
+                "ZheKn7C2",
+                "Do1c4Xrv"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)baby(?:.*\\s?)",
             "raw": "* baby *"
         },
-        "ZSblwzrd": {
+        "qL7tETEz": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -216,15 +216,15 @@
                 "filter": false
             },
             "replys": [
-                "swyLNZOb",
-                "GR0M3tk3",
-                "CTKwXTpM"
+                "5mbcTiFr",
+                "IwbV7FRG",
+                "VVqB2bBM"
             ],
             "redirect": null,
             "trigger": "What should I eat for lunch",
             "raw": "What should I eat for lunch"
         },
-        "ln3YQUcU": {
+        "RxwJyF4O": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -233,14 +233,14 @@
                 "filter": false
             },
             "replys": [
-                "zZDXJNCR",
-                "W0bxUhJ7"
+                "0XTweQwx",
+                "sUa17h2D"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)make for lunch(?:.*\\s?)",
             "raw": "* make for lunch *"
         },
-        "eEVmTkfZ": {
+        "DHaugU1V": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -249,14 +249,14 @@
                 "filter": false
             },
             "replys": [
-                "agF2ckS9",
-                "NVKSGIrh"
+                "UvOcFdjc",
+                "TZRRMBLd"
             ],
             "redirect": null,
             "trigger": "lunch",
             "raw": "lunch"
         },
-        "epEhYXAu": {
+        "2sxxGdVR": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -265,18 +265,18 @@
                 "filter": false
             },
             "replys": [
-                "XFmdQ3yp",
-                "wDLDDLZh",
-                "upmQ5Tfn",
-                "POk33PXx",
-                "2LLXTcDz",
-                "mDclqQAn"
+                "sQd7ncpR",
+                "aFXY44x1",
+                "lYBkxjgU",
+                "hzrXpado",
+                "HRhx9OjU",
+                "E3y3nrZq"
             ],
             "redirect": null,
             "trigger": "~emohello(?:\\s*(\\s?(?:[\\w-]*\\s?){0,2})\\s*|\\s*)",
             "raw": "~emohello [*~2]"
         },
-        "tksT3SQH": {
+        "OPYJVV9B": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -285,13 +285,13 @@
                 "filter": false
             },
             "replys": [
-                "7hbtd8RJ"
+                "dR2rr9Rn"
             ],
             "redirect": null,
             "trigger": "~emohello bot",
             "raw": "~emohello bot"
         },
-        "sHqbc0SX": {
+        "aqNRxgKt": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -300,13 +300,13 @@
                 "filter": false
             },
             "replys": [
-                "jelCJStl"
+                "C6XTKwxW"
             ],
             "redirect": null,
             "trigger": "you suck",
             "raw": "you suck"
         },
-        "b968h0dZ": {
+        "mTmNhE2y": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -315,13 +315,13 @@
                 "filter": false
             },
             "replys": [
-                "lpLU1EVf"
+                "u6CN816x"
             ],
             "redirect": null,
             "trigger": "morning",
             "raw": "morning"
         },
-        "wGjJ6w56": {
+        "dEEG2aA6": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -330,15 +330,15 @@
                 "filter": false
             },
             "replys": [
-                "SPPSl1Hz",
-                "vM7ZIkyf",
-                "sgVblh0B"
+                "DHR0JB8x",
+                "IKidzety",
+                "VJhTzmGj"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)tired(?:.*\\s?)",
             "raw": "* tired *"
         },
-        "dvB6mz6d": {
+        "j6w7kBzJ": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -351,7 +351,7 @@
             "trigger": "What can I ask",
             "raw": "What can I ask"
         },
-        "7cMHGIsv": {
+        "EhvDhydJ": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -360,13 +360,13 @@
                 "filter": false
             },
             "replys": [
-                "7zRqn7r1"
+                "eBY2Ryym"
             ],
             "redirect": null,
             "trigger": "help",
             "raw": "help"
         },
-        "qzRxrH4X": {
+        "1FfvigCj": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -375,14 +375,14 @@
                 "filter": false
             },
             "replys": [
-                "vZQXJv3Z",
-                "eDf2QChc"
+                "fZH6gQnW",
+                "dY0LaOun"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)sunny(?:.*\\s?)",
             "raw": "* sunny *"
         },
-        "bgi5C1No": {
+        "dBb7vpqk": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -391,13 +391,13 @@
                 "filter": false
             },
             "replys": [
-                "CS3TKfI0"
+                "fLRxyZ0l"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)(\\brainy\\b|\\brain\\b)\\s?(?:.*\\s?)",
             "raw": "* (rainy|rain) *"
         },
-        "e5FzXCoQ": {
+        "UfKcrIHX": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -406,7 +406,7 @@
                 "filter": false
             },
             "replys": [
-                "wEOflbQ8"
+                "l32or05b"
             ],
             "redirect": null,
             "trigger": "(?:.*\\s?)cold(?:.*\\s?)",
@@ -414,60 +414,60 @@
         }
     },
     "replys": {
-        "Js30xeQn": "Write monkey write!",
-        "NIM7FkgD": "Sex always sells.",
-        "jRaiz3c9": "You know what? Our traffic patterns really do seem random. I wonder if it's related to the cycles of the moon?",
-        "jQ3KXBap": "Isn't George Bush writing a book?",
-        "zVsgDIJW": "Have you written about what Hillary Clinton had for breakfast?",
-        "8Ffs83g2": "Kim Kardashian retweeted us that one time.",
-        "JiXSJqQ5": "Probably something sexy.",
-        "RiMIX4gt": "Make sure to double-check your spelling!",
-        "NqMhC9CF": "What are you stuck on?",
-        "SDyRAbIA": "What debugging have you done?",
-        "uZH4UdXj": "Have you tried turning it off and on again?",
-        "wGdFlAUh": "Have you looked through the high or medium priority issues in Github?",
-        "Mivsptej": "Have you used the site on your phone recently? There are probably visual defects you'll notice.",
-        "aR9RTW0A": "Yolo merge it.",
-        "6Jomgo2u": "I'm just a duck.",
-        "vEWiZWuS": "Maybe?",
-        "J33QOYje": "^checkStaging()",
-        "ZjHBoEfX": "What?! I didn't do it.",
-        "SLNTw4bA": "I exist in hyperspace. Ain't no sound in space!",
-        "w3qI6UwN": "Cute!",
-        "iUBk6D7K": "\"Just imagine you're drowning... then someone hands you a baby.\"",
-        "swyLNZOb": "What's closest nearby?",
-        "GR0M3tk3": "Are there food carts nearby?",
-        "CTKwXTpM": "Skip lunch and keep working, you tard.",
-        "zZDXJNCR": "A burrito?",
-        "W0bxUhJ7": "What do you have in your kitchen?",
-        "agF2ckS9": "Sounds delicious!",
-        "NVKSGIrh": "Yum!",
-        "XFmdQ3yp": "Hi!",
-        "wDLDDLZh": "Hi, how are you?",
-        "upmQ5Tfn": "How are you?",
-        "POk33PXx": "Hello",
-        "2LLXTcDz": "Howdy",
-        "mDclqQAn": "Ola",
-        "7hbtd8RJ": "Hello, human!",
-        "jelCJStl": "No! you suck!",
-        "lpLU1EVf": "Morning, what are you working on today?",
-        "SPPSl1Hz": "Don't panic.",
-        "vM7ZIkyf": "What problems are you trying to solve?",
-        "sgVblh0B": "Take a break.",
-        "7zRqn7r1": "I'm a powerful rubber duck. You can ask me anything!",
-        "vZQXJv3Z": "It's sunny where I am. Don't you love working for a distributed team?",
-        "eDf2QChc": "The sun will come out, tomorrow, bet your bottom dollar that tomorrow there'll be sun...",
-        "CS3TKfI0": "Yeah.",
-        "wEOflbQ8": "At least it's not Canada."
+        "gkWjMPBX": "Write monkey write!",
+        "jN4rFwhN": "Sex always sells.",
+        "1WpTMnAY": "You know what? Our traffic patterns really do seem random. I wonder if it's related to the cycles of the moon?",
+        "yFdoz9cl": "What are you stuck on?",
+        "LHWOTGF1": "What debugging have you done?",
+        "f2e3Vj4D": "Have you tried turning it off and on again?",
+        "jW0p2FTh": "Have you looked through the high or medium priority issues in Github?",
+        "2SNqrWMJ": "Have you used the site on your phone recently? There are probably visual defects you'll notice.",
+        "xfDHIsmz": "Yolo merge it.",
+        "Nt601aOs": "I'm just a duck.",
+        "FxLjg3Q9": "Maybe?",
+        "6XC0cdIF": "^checkStaging()",
+        "ff8Rq8Gy": "Isn't George Bush writing a book?",
+        "HmnQEM0K": "Have you written about what Hillary Clinton had for breakfast?",
+        "SDCHpdyp": "Kim Kardashian retweeted us that one time.",
+        "fD81Uu6a": "Probably something sexy.",
+        "PeOK0SUU": "Make sure to double-check your spelling!",
+        "CSj9z0Uo": "What?! I didn't do it.",
+        "qDdHOlvF": "I exist in hyperspace. Ain't no sound in space!",
+        "ZheKn7C2": "Cute!",
+        "Do1c4Xrv": "\"Just imagine you're drowning... then someone hands you a baby.\"",
+        "5mbcTiFr": "What's closest nearby?",
+        "IwbV7FRG": "Are there food carts nearby?",
+        "VVqB2bBM": "Skip lunch and keep working, you tard.",
+        "0XTweQwx": "A burrito?",
+        "sUa17h2D": "What do you have in your kitchen?",
+        "UvOcFdjc": "Sounds delicious!",
+        "TZRRMBLd": "Yum!",
+        "sQd7ncpR": "Hi!",
+        "aFXY44x1": "Hi, how are you?",
+        "lYBkxjgU": "How are you?",
+        "hzrXpado": "Hello",
+        "HRhx9OjU": "Howdy",
+        "E3y3nrZq": "Ola",
+        "dR2rr9Rn": "Hello, human!",
+        "C6XTKwxW": "No! you suck!",
+        "u6CN816x": "Morning, what are you working on today?",
+        "DHR0JB8x": "Don't panic.",
+        "IKidzety": "What problems are you trying to solve?",
+        "VJhTzmGj": "Take a break.",
+        "eBY2Ryym": "I'm a powerful rubber duck. You can ask me anything!",
+        "fZH6gQnW": "It's sunny where I am. Don't you love working for a distributed team?",
+        "dY0LaOun": "The sun will come out, tomorrow, bet your bottom dollar that tomorrow there'll be sun...",
+        "fLRxyZ0l": "Yeah.",
+        "l32or05b": "At least it's not Canada."
     },
     "checksums": {
         "./topics/audience-development.ss": "c40b73d6e5c8f30fb6ba88bf44f4dd32b23aed9c",
-        "./topics/engineering.ss": "1ec0c8f5f9470ec44fc524d6c54556d85c1f3c4e",
+        "./topics/engineering.ss": "b4e83b65b06390a93dc11390994dfa10c46c3b37",
         "./topics/editorial.ss": "8271d4ff126169db9eaccf4f4745a2e1f3785544",
         "./topics/funny.ss": "4586ef8c9f5bee8b780ff6ddc13955a8809e53a9",
         "./topics/lunch.ss": "8b50445b3cd221b62a13f6ba83c7922bdea0dd8a",
         "./topics/main.ss": "a97efc753c44bd656f0e8cd9925c7abfdfb1cd66",
-        "./topics/meta.ss": "4e77ba2c94f6dd56802227d9a835c3a2e4132b92",
-        "./topics/weather.ss": "9cfffbceca0fb3e1d9b82e84f0fa0b97b37b3488"
+        "./topics/weather.ss": "9cfffbceca0fb3e1d9b82e84f0fa0b97b37b3488",
+        "./topics/meta.ss": "4e77ba2c94f6dd56802227d9a835c3a2e4132b92"
     }
 }

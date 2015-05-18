@@ -12,5 +12,5 @@
 - I'm just a duck.
 - Maybe?
 
-+ can i * staging *
++ can i grab staging
 - ^checkStaging()
