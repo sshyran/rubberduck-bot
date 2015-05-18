@@ -129,6 +129,25 @@ var receiveData = function(slack, bot, data) {
     });
   } else {
     console.log("Ignoring...", messageData);
+    if(message.indexOf('staging') > -1 ) {
+	CheckStaging.findOne(function(err, record) {
+		if (err) return console.error(err);
+
+		if(record) {
+			record.user = user.name;
+			record.createdAt = new Date();
+			record.save();
+		} else {
+			new CheckStaging({
+				user: user.name
+			}).save(function(err) {				
+				if (err) return console.error(err);
+			});
+		}	
+
+	});
+
+    }
   }
 };
 
