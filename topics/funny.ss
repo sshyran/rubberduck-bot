@@ -4,9 +4,6 @@
 + lol
 - I exist in hyperspace. Ain't no sound in space!
 
-?:WH * life
-- Err, 42?
-
 + * baby *
 - Cute!
 - "Just imagine you're drowning... then someone hands you a baby."
