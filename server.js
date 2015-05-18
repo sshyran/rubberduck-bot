@@ -8,7 +8,6 @@ var mongo = process.env.MONGOHQ_URL || 'mongodb://localhost/superscriptDB';
 var superscript = require("superscript");
 var mongoose = require("mongoose");
 mongoose.connect( mongo );
-
 // slack-client provides auth and sugar around dealing with the RealTime API.
 var Slack = require("slack-client");
 
@@ -16,7 +15,6 @@ var debug = require('debug')("Slack Client");
 var facts = require("sfacts");
 var factSystem = facts.explore("botfacts");
 var TopicSystem = require("superscript/lib/topics/index")(mongoose, factSystem);
-
 console.log( "Server running" );
 
 // How should we reply to the user? 
@@ -29,6 +27,9 @@ var atReplyRE = /<@(.*?)>/;
 var options = {};
 options['factSystem'] = factSystem;
 options['mongoose'] = mongoose;
+options['scope'] = {
+	'getMongoose': function() { return mongoose }
+};
 
 var express = require('express');
 var app = express();
@@ -76,8 +77,12 @@ var receiveData = function(slack, bot, data) {
   if (messageData && messageData.text) {
     message = "" + messageData.text.trim();
   }
-  
-  
+
+  /*
+  checkStaging.lastPersonAskedForInHour(user.name, message, function(lastPersonMentionedStaging) {
+	console.log(lastPersonMentionedStaging);
+  });
+  */
   var match = message.match(atReplyRE);
   
   // Are they talking to us?

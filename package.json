@@ -5,12 +5,15 @@
   "dependencies": {
     "debug": "~2.0.0",
     "express": "^4.12.3",
+    "moment": "^2.10.3",
     "mongoose": "3.8.24",
     "sfacts": "latest",
     "slack-client": "~1.2.2",
-    "superscript": "latest"
+    "superscript": "latest",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
+    "chai": "^2.3.0",
     "express": "^4.12.3",
     "request": "^2.55.0"
   }

@@ -5,7 +5,8 @@
 ? * OKRs *
 - Does it align with the company's strategic goals?
 - Do you know what the company's strategic goals are?
-- It probably should be SMART — Specific, Measureable, Uhh...
+- It probably should be SMART
+- Specific, Measureable, Uhh...
 + * no (OKRs|OKR) *
 - Do you need help writing OKRs?
 - What are your blockers?
