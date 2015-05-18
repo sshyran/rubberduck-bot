@@ -8,6 +8,14 @@ var mongo = process.env.MONGOHQ_URL || 'mongodb://localhost/superscriptDB';
 var superscript = require("superscript");
 var mongoose = require("mongoose");
 mongoose.connect( mongo );
+
+var CheckStagingSchema = mongoose.Schema({
+	user: String,
+	createdAt: { type: Date, default: Date.now }
+});
+
+var CheckStaging = mongoose.model('CheckStaging', CheckStagingSchema);
+
 // slack-client provides auth and sugar around dealing with the RealTime API.
 var Slack = require("slack-client");
 
@@ -28,7 +36,9 @@ var options = {};
 options['factSystem'] = factSystem;
 options['mongoose'] = mongoose;
 options['scope'] = {
-	'getMongoose': function() { return mongoose }
+	'getCheckStaging': function() { 
+		return CheckStaging;
+	}
 };
 
 var express = require('express');
