@@ -14,3 +14,6 @@
 
 + * staging *
 - ^checkStaging()
+
++ * pagespeed performance *
+- ^pagespeed()
