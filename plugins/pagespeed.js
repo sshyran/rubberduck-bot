@@ -1,9 +1,13 @@
 var request = require('request'),
     Promise = require('promise');
 
+require('dotenv').load();
+
+var googleapi = process.env.GOOGLE_API_KEY || '';
 
 var getSpeed = function(strategy) {
-	var url = 'https://www.googleapis.com/pagespeedonline/v2/runPagespeed?url=http%3A%2F%2Ffusion.net&strategy='+ strategy + '&fields=ruleGroups&key=AIzaSyCvwmlzu3wKrFkv53fuGv4LEREVm9LtsBI'
+	var url = 'https://www.googleapis.com/pagespeedonline/v2/runPagespeed?url=http%3A%2F%2Ffusion.net&strategy='+ strategy + '&fields=ruleGroups&key=' + googleapi;
+	
 	return new Promise(function(resolve, reject) {
 		request.get(url, function (error, response, body) {
 			if(error) reject(error);

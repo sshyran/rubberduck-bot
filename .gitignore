@@ -3,3 +3,5 @@ botfacts
 systemDB
 logs
 data.json
+.env
+*.rdb

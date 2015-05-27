@@ -1,4 +1,4 @@
-
+require('dotenv').load();
 // Auth Token - You can generate your token from 
 // https://<slack_name>.slack.com/services/new/bot
 var token = process.env.SLACK_BOT_TOKEN || "...";
