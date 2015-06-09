@@ -1,7 +1,7 @@
 + What should I eat for lunch?
 - What's closest nearby?
 - Are there food carts nearby?
-- Skip lunch and keep working, you tard.
+- Skip lunch and keep working!
 
 + * make for lunch *
 - A burrito?
